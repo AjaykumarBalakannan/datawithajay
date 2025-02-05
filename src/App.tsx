@@ -19,6 +19,13 @@ function App() {
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Ajaykumar Balakannan</h1>
             <p className="text-xl md:text-2xl text-blue-100">Data Science Graduate Student</p>
+            <p className="mt-4 text-lg text-blue-200 max-w-3xl mx-auto">
+              I’ve always been someone who notices the little things—the subtle shifts in patterns, 
+              the hidden connections that others overlook. Then came data. The more I explored it, 
+              the more I realized that data, like nature, has its own rhythm—patterns waiting to be uncovered, 
+              trends hiding in plain sight. Every dataset tells a story, and I thrive on discovering it.
+              I’m on a journey of turning details into data-driven impact.
+            </p>
             <div className="flex justify-center gap-4 mt-8">
               <a href="https://github.com" className="p-2 hover:text-blue-200 transition-colors">
                 <Github className="w-6 h-6" />
