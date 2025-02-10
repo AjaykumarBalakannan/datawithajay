@@ -28,10 +28,10 @@ function App() {
               I'm on a journey of turning details into data-driven impact.
             </p>
             <div className="flex justify-center gap-4 mt-8">
-              <a href="https://github.com" className="p-2 hover:text-blue-200 transition-colors">
+              <a href="https://github.com/AjaykumarBalakannan" className="p-2 hover:text-blue-200 transition-colors">
                 <Github className="w-6 h-6" />
               </a>
-              <a href="https://linkedin.com" className="p-2 hover:text-blue-200 transition-colors">
+              <a href="https://www.linkedin.com/in/ajaykumar-balakannan" className="p-2 hover:text-blue-200 transition-colors">
                 <Linkedin className="w-6 h-6" />
               </a>
               <a href="mailto:ajayport@umd.edu" className="p-2 hover:text-blue-200 transition-colors">
