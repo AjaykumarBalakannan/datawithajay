@@ -25,7 +25,7 @@ function App() {
               the hidden connections that others overlook. Then came data. The more I explored it, 
               the more I realized that data, like nature, has its own rhythm—patterns waiting to be uncovered, 
               trends hiding in plain sight. Every dataset tells a story, and I thrive on discovering it.
-              I'm on a journey of turning details into data-driven impact.
+              I'm on a journey of turning details into data-driven.
             </p>
             <div className="flex justify-center gap-4 mt-8">
               <a href="https://github.com/AjaykumarBalakannan" className="p-2 hover:text-blue-200 transition-colors">
